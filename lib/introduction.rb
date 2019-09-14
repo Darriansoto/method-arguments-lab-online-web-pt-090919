@@ -1,5 +1,15 @@
-def intro_to_language(name, language)
+def introduction(name)
+  puts "Hi, my name is #{name}"
+end
+
+introduction("Josh")
+
+def 
+
+
+
+def introduction_to_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-intro_to_language("Darrian","Ruby")
+introduction_to_language("Darrian","Ruby")
